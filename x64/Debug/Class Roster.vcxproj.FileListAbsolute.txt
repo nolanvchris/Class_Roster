@@ -1,1 +1,2 @@
 C:\Western Governors University\Class Roster\x64\Debug\Class_Roster.exe
+C:\Western Governors University\Class_Roster\x64\Debug\Class_Roster.exe
