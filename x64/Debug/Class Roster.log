@@ -1,6 +1,3 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Class Roster.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   main.cpp
-  roster.cpp
-C:\Western Governors University\C-867 Class roster\roster.cpp(155,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  Generating Code...
   Class Roster.vcxproj -> C:\Western Governors University\Class_Roster\x64\Debug\Class_Roster.exe
